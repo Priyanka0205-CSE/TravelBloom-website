@@ -1,0 +1,1 @@
+This mini project is my first responsive website (TravelBloom) built entirely with HTML and CSS to practice and demonstrate core design skills .This travel agency website allows users to explore destinations, book hotels, rent cars, and enjoy adventure activities easily online :)
